@@ -15,6 +15,6 @@ Properties
 6. unit
 7. selectors
     -universal
-    -element
+    -element 
     -id
     -class
